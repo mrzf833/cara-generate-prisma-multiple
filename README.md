@@ -1,0 +1,1 @@
+# cara-generate-prisma-multiple
